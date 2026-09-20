@@ -1,4 +1,4 @@
-# NAME: Kiripasagar S
+# NAME: Kirupasagar S
 # REG.No: 212224230126
 
 # EX-6-edge-detection-opencv
